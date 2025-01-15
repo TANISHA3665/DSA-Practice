@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1791-richest-customer-wealth](https://github.com/TANISHA3665/DSA-Practice/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/TANISHA3665/DSA-Practice/tree/master/2384-root-equals-sum-of-children) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/TANISHA3665/DSA-Practice/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
