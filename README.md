@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2383-add-two-integers](https://github.com/TANISHA3665/DSA-Practice/tree/master/2383-add-two-integers) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/TANISHA3665/DSA-Practice/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/TANISHA3665/DSA-Practice/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
