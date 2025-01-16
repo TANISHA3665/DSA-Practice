@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHA3665/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
