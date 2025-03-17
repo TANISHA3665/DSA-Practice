@@ -5,17 +5,21 @@ class Solution {
 
         for(String str: strs){
             
-            // Sort the string
-            char[] charArray = str.toCharArray();
-            Arrays.sort(charArray);
-            String newStr = new String(charArray);
+            // Store in array
+             int[] count = new int[26];
 
-            // Make a key of the sorted string
-            if(!map.containsKey(newStr)){
-                map.put(newStr, new ArrayList<>());
+             for(char ch: str.toCharArray()){
+                count[ch - 'a']++;
+             }
+
+             String key = Arrays.toString(count);
+
+            // Make a key of the new string
+            if(!map.containsKey(key)){
+                map.put(key, new ArrayList<>());
             }
 
-            map.get(newStr).add(str);
+            map.get(key).add(str);
         }
 
         return new ArrayList(map.values());
