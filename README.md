@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TANISHA3665/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/TANISHA3665/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TANISHA3665/DSA-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/TANISHA3665/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TANISHA3665/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/TANISHA3665/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/TANISHA3665/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TANISHA3665/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TANISHA3665/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TANISHA3665/DSA-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/TANISHA3665/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TANISHA3665/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TANISHA3665/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TANISHA3665/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
