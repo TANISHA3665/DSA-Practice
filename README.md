@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/TANISHA3665/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/TANISHA3665/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TANISHA3665/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TANISHA3665/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TANISHA3665/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
+| [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHA3665/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TANISHA3665/DSA-Practice/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
