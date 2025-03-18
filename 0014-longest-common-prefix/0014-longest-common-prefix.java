@@ -1,25 +1,24 @@
-// Brute-force
-
+// Optimized 
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-       String prefix = strs[0];
 
-       for(int i = 1; i < strs.length; i++){
-        int j = 0;
+        Arrays.sort(strs);
 
-        while(j < prefix.length() && j < strs[i].length() && prefix.charAt(j) == strs[i].charAt(j)){
-            j++;
+        String first = strs[0];
+        String last = strs[strs.length - 1];
+        int i = 0;
+
+        while(i < first.length() && i < last.length()){
+            if(first.charAt(i) != last.charAt(i)){
+                return first.substring(0, i);
+            }
+
+            i++;
         }
-        prefix = prefix.substring(0, j);
 
-        if(prefix.isEmpty()){
-            return ("");
-        }
-       }
-
-        return prefix;
+        return first;
     }
 }
 
-//Time Complexity - O(n*m)
-//Space Complexity - O(1)
+// Time Complexity - O(n*logn)
+// Space Complexity - O(1)
