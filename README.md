@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TANISHA3665/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/TANISHA3665/DSA-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/TANISHA3665/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/TANISHA3665/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TANISHA3665/DSA-Practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TANISHA3665/DSA-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/TANISHA3665/DSA-Practice/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TANISHA3665/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHA3665/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
