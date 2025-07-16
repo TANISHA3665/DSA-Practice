@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TANISHA3665/DSA-Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/TANISHA3665/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/TANISHA3665/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TANISHA3665/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TANISHA3665/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TANISHA3665/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TANISHA3665/DSA-Practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
