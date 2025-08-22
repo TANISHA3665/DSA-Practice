@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/TANISHA3665/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/TANISHA3665/DSA-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TANISHA3665/DSA-Practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/TANISHA3665/DSA-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANISHA3665/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TANISHA3665/DSA-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
