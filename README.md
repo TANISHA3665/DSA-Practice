@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/TANISHA3665/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/TANISHA3665/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/TANISHA3665/DSA-Practice/tree/master/0258-add-digits) |
