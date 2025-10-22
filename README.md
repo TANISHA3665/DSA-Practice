@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
+| [1019-squares-of-a-sorted-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TANISHA3665/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHA3665/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
