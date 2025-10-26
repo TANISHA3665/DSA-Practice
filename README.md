@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1791-richest-customer-wealth](https://github.com/TANISHA3665/DSA-Practice/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/TANISHA3665/DSA-Practice/tree/master/2169-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
 | [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
 | [1256-rank-transform-of-an-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [2169-simple-bank-system](https://github.com/TANISHA3665/DSA-Practice/tree/master/2169-simple-bank-system) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/TANISHA3665/DSA-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/TANISHA3665/DSA-Practice/tree/master/2169-simple-bank-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/TANISHA3665/DSA-Practice/tree/master/0816-design-hashset) |
+| [2169-simple-bank-system](https://github.com/TANISHA3665/DSA-Practice/tree/master/2169-simple-bank-system) |
 ## Hash Function
 |  |
 | ------- |
