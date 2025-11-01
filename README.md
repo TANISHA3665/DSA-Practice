@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TANISHA3665/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TANISHA3665/DSA-Practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/TANISHA3665/DSA-Practice/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/TANISHA3665/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TANISHA3665/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHA3665/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/TANISHA3665/DSA-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANISHA3665/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/TANISHA3665/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
