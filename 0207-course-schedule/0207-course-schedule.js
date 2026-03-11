@@ -3,39 +3,51 @@
  * @param {number[][]} prerequisites
  * @return {boolean}
  */
- // DFS
+ // Kahn's Algo
 var canFinish = function(numCourses, prerequisites) {
-    function DFS(u) {
-        visited[u] = true;
-        inRecursionStack[u] = true;
 
-        for(let v of adj[u]){
-            if(!visited[v] && !DFS(v)){
-                return false;
-            }
-
-            else if(inRecursionStack[v]){
-                return false;
-            }
-        }
-
-        inRecursionStack[u] = false;
-        return true;
-    }
+    // Convert to adj list
     const adj = Array.from({length: numCourses}, () => []);
 
-    for(let [v, u] of prerequisites){
+    for(const [v, u] of prerequisites){
         adj[u].push(v);
     }
 
-    const visited = Array(numCourses).fill(false);
-    const inRecursionStack = Array(numCourses).fill(false);
+    // 1. Calculate indegree
+    const indegree = Array(numCourses).fill(0);
 
-    for(let i = 0; i < numCourses; i++){
-        if(!visited[i] && !DFS(i)){
-            return false;
+    for(let u = 0; u < numCourses; u++){
+        for(let v of adj[u]){
+            indegree[v]++;
         }
     }
 
-    return true;
+    // 2. Push into queue with indegree 0
+    const queue = [];
+
+    for(let i = 0; i < numCourses; i++){
+        if(indegree[i] == 0){
+            queue.push(i);
+        }
+    }
+
+    // 3. Simple BFS 
+
+    let front = 0;
+    let count = 0;
+
+    while(front < queue.length){
+        const u = queue[front++];
+        count++;
+
+        for(let v of adj[u]){
+            indegree[v]--;
+
+            if(indegree[v] == 0){
+                queue.push(v);
+            }
+        }
+    }
+
+    return count == numCourses;
 };
